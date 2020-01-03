@@ -9,11 +9,10 @@
    &nbsp;&nbsp;The Buddy project basically a Assistant for the personal computer.<br>
 <b>Buddy uses  the Emotional recognition , Voice recognition and A.I.</b><br>
 &nbsp;&nbsp;Assistant for PC<br>
-
-[![Built with ❤](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com/#)
 <ul>
   <li>Python</li>
   <li>Java</li>
   <li>.NET framework</li>
   <li>PyQt</li>
 </ul>
+<h1 style="color:red">Operate it by saying :) Python</h1>
